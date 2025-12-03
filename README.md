@@ -30,7 +30,7 @@ Source: Uploaded raw CSV file (customer_shopping_behavior.csv)
 
 Python – Data loading, cleaning, preprocessing, EDA
 Libraries: Pandas, NumPy, Matplotlib, Seaborn
-Jupyter Notebook / VS Code – Development environment
+Jupyter Notebook– Development environment
 PostgreSQL – SQL querying and structured data analysis
 pgAdmin – Database management
 Power BI – Dashboard creation
